@@ -59,7 +59,7 @@ form{
     height: 200px;
     width: 100%;
     object-fit: cover;
-    transition: opacity 0.3 ease-in-out;
+    transition: opacity 0.7s ease-in-out;
 }
 .srh-result:hover img{
      opacity: 0.6;
